@@ -19,7 +19,7 @@ function depends_emulationstation-kids() {
 }
 
 function sources_emulationstation-kids() {
-    sources_emulationstation "https://github.com/zigurana/EmulationStation" "UI_modes_Kiosk_Kid_Full"
+    sources_emulationstation "https://github.com/max13/EmulationStation" "UI_modes_Kiosk_Kid_Full"
 }
 
 function build_emulationstation-kids() {
